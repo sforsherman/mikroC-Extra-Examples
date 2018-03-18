@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F26K20 -UICD -DL -O11111114 -fo16 -N"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Examples\Development Systems\EASYPIC7\External Devices (I2C)\INA219\INA219.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Examples\Development Systems\EASYPIC7\External Devices (I2C)\INA219\" -IP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Examples\Development Systems\EASYPIC7\External Devices (I2C)\INA219\" "INA219.c" "INA219_Main.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_I2C_c34.mcl"	 
+hint: 0	1139	Available RAM: 3915 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	ina219.h
+diagnostics: 46	123	Compiled Successfully	INA219.c
+diagnostics: 0	122	Compilation Started	INA219_Main.c
+diagnostics: 3	123	Compiled Successfully	INA219_Main.c
+diagnostics: 0	127	All files Compiled in 250 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 3915 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 3915 (99%)
+hint: 0	1144	Used ROM (bytes): 46 (1%)  Free ROM (bytes): 65490 (99%)	Used ROM (bytes): 46 (1%)  Free ROM (bytes): 65490 (99%)
+diagnostics: 0	125	Project Linked Successfully	INA219.mcppi
+diagnostics: 0	128	Linked in 141 ms	 
+diagnostics: 0	129	Project 'INA219.mcppi' completed: 438 ms	 
+diagnostics: 0	103	Finished successfully: 18 Mar 2018, 23:22:14	INA219.mcppi
