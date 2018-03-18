@@ -7,4 +7,4 @@ To load the examples into your mikroC development environment, just clone the re
 Now launch your mikroC PRO for PIC and you will be able to load the example from the "Examples section".
 
 ## Updates:
-**Commit #001**: This is the first version that is written, it is not tested yet and might not work as intended. Will be testing it in the next few days and making any changes if necessary.
+**Upload #001**: This is the first version that is written, it is not tested yet and might not work as intended. Will be testing it in the next few days and making any changes if necessary.
